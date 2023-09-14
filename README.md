@@ -1,3 +1,14 @@
-# Contemporary Issues In Data
+```markdown
+# ChatGPT's Privacy Issues in Protecting Personal Information
+In this document, I discuss the issue of ChatGPT protecting personal information of its users. I will discuss opposing views from two different articles, one that claims the privacy issue is inherent with the structure of ChatGPT and one that claims that recent efforts to encourage data privacy will suffice to protect user data.
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
+## Article 1
+In an article from Wired [Chat GPT Has a Big Privacy Problem](https://www.wired.com/story/italy-ban-chatgpt-privacy-gdpr/), Matt Burgess discusses Italy's data regulator's response to ChatGPT using the personal data from millions of Italian users. OpenAI has since blocked access to the site from users located in Italy. Garante per la Protezione dei Dati Personali claims that the personal information that ChatGPT depends on to function is protected by the European Union's GDPR rules. He argues that ChatGPT does not have the right to collect this data, nor do they have the privacy precautions in place to store that data in a safe location.
+
+Burgess explains the positioning that not only does ChatGPT not currently have mature enough privacy policies, he also presents the argument that the very technology prohibits sufficient privacy to users. This is largely in part to ChatGPT relying on personal information to improve and develop its own abilities. The same is true for almost all forms of artificial intelligence. Elizabeth Renieris, senior research associate at Oxford’s Institute for Ethics in AI, claims that these privacy issues are unlikely to ever be fixed when it comes to artificial intelligence. 
+
+## Article 2
+In the same month that Wired released the previous article, Engadget released the article [OpenAI improves ChatGPT privacy with new data controls](https://www.engadget.com/openai-improves-chatgpt-privacy-with-new-data-controls-174851274.html). Will Shanklin highlights new features introduced by OpenAI intended to protect user data. Unlike Burgess, Shanklin presents these changes as major improvements towards ChatGPT's ability to protect user data. 
+
+For one, users can now turn off their chat history, which prevents ChatGPT from using this information as training data. This refers to data that will improve and strengthen the artificial intelligence. If this option is turned on, ChatGPT will delete the information permanently after 30 days. OpenAI also released a business plan for $20 a month, which enables professionals to have increased control over the distribution of protected information. Lastly, ChatGPT released a feature where users can export the information that ChatGPT has stored in an effort to be more transparent. Shanklin includes one anecdote about Samsung employees who leaked sensitive information. He argues that incidents like this will now be prevented with OpenAI's additional privacy features.
+```
